@@ -1,0 +1,6 @@
+lowkey ima have to rewrite the age of fear heavily
+
+maybe i have ignis see the founder as a child being burned alive for what ever reason will write later and ignis decided to spare him granting him his authority then the founder gains some type of extreme reverence and infatuation with ignis decided to bring on the events that unfold in [[Conflicts of The Spire]] and this kinda forces ignis to relive his trauma as someone who tried to spare people only for it to end up biting him in the ass again and [[the founder]] will be the first time anyone has seen such an affinity for the monarchs authority. after events which i will further detail if this is canonized occur the founder after reaching his full potential maybe fights with ignis and ignis is kinda demoralized and loses which leads to the founder becoming the new ignis and the story proceeding to the [[Enlightenment Overview]] 
+
+lowkey ignises death is kinda required to keep my ideas for the age of enlightenment because according to his character idk why he would give anyone his authority because he literally thinks his power fucked up the world thats why i think him seeing some childing dying (burned alive) would invoke enough emotion in him to grant his authority
+also side not you said it wouldnt really make sense for ignis to want to kill himself even tho he literally kills himself 

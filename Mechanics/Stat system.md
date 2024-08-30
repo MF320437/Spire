@@ -1,0 +1,3 @@
+this is mainly for marteenus for flesh out with other people giving their input
+
+ME PERSONALLY we could go for a deepwoken esq system were stats dont necessarily make you do more damage but let you unlock cards. could make combat more meaningful and possibly easier to balance kinda of like wartales where your units dont really get “stronger” other than new moves weapons and gear also arcane lineage kinda turned into brute forcing enemys by 1 shotting them even tho i feel like the appeal to turn based games is some sort of strategy element

@@ -1,0 +1,2 @@
+this will mainly be relevant to the age of enligenment [[Enlightenment Overview]] as this is when we see the rise of formal religions and cults obviously the ending of the [[The Age Of Fear]] has the creation of a brand new religion based off the figurehead being ignis. 
+few ideas i gave for some cults that can permeate around the world to create conflict and maybe opportunities for the player to gain authority from certain monarchs.

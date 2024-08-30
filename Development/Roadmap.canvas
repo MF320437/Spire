@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"5de7c2eed9f73f5f","x":-441,"y":-33,"width":361,"height":493,"type":"text","text":"**Character Creation**\n* 6 Basic Backgrounds*\n* 4 Selectable Races\n* 3 Selectable Weapons (2 Abilities per)\n* 12 Stat Based Active Talents\n* 12 Stat Based Passive Talents\n**Player Combat System**\n* Full Battle Sequence\n* Experience|Levels gain after combat\n\n**Player Movement System**\n* Procedural Animation System\n* Vaulting|Sliding| & other complex actions\n"},
+		{"id":"b7b51597c671defc","x":-441,"y":-93,"width":250,"height":60,"type":"text","text":"Minimal Viable Product"}
+	],
+	"edges":[]
+}

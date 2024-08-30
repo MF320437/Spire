@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "e7215dcfdcdd78f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c189ec6f57e66a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82388d49525baaae",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Development/Roadmap.canvas",
+                "viewState": {
+                  "x": 55,
+                  "y": 82,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9673871a6a76475f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd7c2b0117b5a8ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a63b01ae2fac3982",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5ce8740655fc990",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9b25d8c220ae1ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "right": {
+    "id": "925cfc49e6882587",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc0f17332004d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "623322352c2bac59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Development/Roadmap.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3693e831d587282c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Development/Roadmap.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5157778715930df3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e20043ac9165e9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Development/Roadmap.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a63b01ae2fac3982",
+  "lastOpenFiles": [
+    "Lore/World/Spire.md",
+    "Development/Roadmap.canvas",
+    "Development",
+    "Lore/Races/Genus notes.md",
+    "Lore/Ages/Age 2 Silence/Conflicts of The Monarchs.md",
+    "Lore/Ages/Age 2 Silence/Conflicts of The Spire.md",
+    "Scrapped",
+    "Scrapped.md",
+    "Lore/Races/Genus.md",
+    "Lore/Ages/Age 2 Silence/The Age Of Silence.md",
+    "Lore/Races/Ashen.md",
+    "2024-08-29.md",
+    "Lore/Races/Ashen Notes.md",
+    "Lore/Races/Kensai.md",
+    "Lore/Races/Solari.md",
+    "Lore/Races/Naito.md",
+    "Systems/Weapons.md",
+    "Systems/Combat.md",
+    "Systems/Untitled.md",
+    "Mechanics/Stat system.md",
+    "Stat system.md",
+    "Untitled.md",
+    "Lore/Races/Human.md",
+    "Lore/Vessel.md",
+    "Lore/Monarchs/Viviana.md",
+    "Mechanics/Status Effects",
+    "Status Effects",
+    "Lore/Ages/Age 3 Fear/The Age Of Fear.md",
+    "Lore/Ages/Age 3 Fear/1 The Age Of Fear.md",
+    "Religions and Cults/1 Religions and Cults Overview.md",
+    "Definitions",
+    "Systems",
+    "Lore/World",
+    "Ages overview.canvas",
+    "discussion forum",
+    "Religions and Cults",
+    "Untitled 2",
+    "Lore/Monarchs/Untitled.canvas",
+    "Lore/Ages/Ages overview.canvas",
+    "Lore/Ages.canvas",
+    "Lore/Untitled.canvas",
+    "Untitled.canvas",
+    "Lore/Untitled 1.canvas"
+  ]
+}
