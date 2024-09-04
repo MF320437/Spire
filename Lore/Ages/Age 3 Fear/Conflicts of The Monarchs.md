@@ -3,7 +3,7 @@ Monarchs POV during the “age of fear”
   
 seems like im gonna needs to rewrite this. will be able to keep a bit of it just gotta switch around a few names if marteenus lets me go along with my ignis notes. this will be a civil war between the monarchs on the basis of stopping or helping the founder create his new world / organized religion. [[1 Religions and Cults Overview]]
 
-The conflict of the spire is going to cause a “civil war” between monarchs and i will be trying to make some type of relations chart thats unique and makes sense. For simplicity and since its not currently ironed out ima just put team ignis and team ???  
+The conflict of the spire is going to cause a “civil war” between monarchs and i will be trying to make some type of relations chart that's unique and makes sense. For simplicity and since its not currently ironed out ima just put team ignis and team ???  
   
 TEAM IGNIS                                                         TEAM ANTIGNIS  
 Ignis                                                                        War + blood god concept “with war there is  

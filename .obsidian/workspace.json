@@ -11,14 +11,11 @@
             "id": "82388d49525baaae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Development/Roadmap.canvas",
-                "viewState": {
-                  "x": 55,
-                  "y": 82,
-                  "zoom": 0
-                }
+                "file": "Lore/Races/Genus.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Roadmap.canvas",
+                "file": "Lore/Races/Genus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Roadmap.canvas",
+                "file": "Lore/Races/Genus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Roadmap.canvas"
+                "file": "Lore/Races/Genus.md"
               }
             }
           }
@@ -149,50 +146,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a63b01ae2fac3982",
+  "active": "82388d49525baaae",
   "lastOpenFiles": [
-    "Lore/World/Spire.md",
-    "Development/Roadmap.canvas",
-    "Development",
-    "Lore/Races/Genus notes.md",
-    "Lore/Ages/Age 2 Silence/Conflicts of The Monarchs.md",
-    "Lore/Ages/Age 2 Silence/Conflicts of The Spire.md",
-    "Scrapped",
-    "Scrapped.md",
-    "Lore/Races/Genus.md",
-    "Lore/Ages/Age 2 Silence/The Age Of Silence.md",
     "Lore/Races/Ashen.md",
     "2024-08-29.md",
+    "Ages overview.canvas",
+    "Religions and Cults Overview.md",
+    "Scrapped.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Misc Notes/lore justification dump.md",
+    "Mechanics/Move.md",
+    "Systems/Weapons.md",
+    "Development/Roadmap.canvas",
+    "discussion forum/discussion forum.md",
+    "Lore/Races/Genus.md",
+    "Backgrounds",
+    "Lore/Races/1 lore notes for races.md",
+    "Lore/Ages/Age 3 Fear/Conflicts of The Monarchs.md",
+    "Lore/Ages/Age 3 Fear/Conflicts of The Spire.md",
+    "Lore/World/Spire.md",
+    "Lore/Ages/Age 2 Silence/The Age Of Silence.md",
+    "Lore/Ages/Age 3 Fear/The Age Of Fear.md",
+    "Lore/Ages/Age 4 Enlightenment/Enlightenment Overview.md",
+    "Lore/Ages/Age 2 Silence/Conflicts of The Monarchs.md",
+    "Primal Monarchs",
+    "Lore/Ages/Age 2 Silence/Conflicts of The Spire.md",
+    "Lore/Ages/Age 1 Peace/Age Of Peace.md",
+    "Development",
+    "Lore/Races/Genus notes.md",
+    "Scrapped",
     "Lore/Races/Ashen Notes.md",
     "Lore/Races/Kensai.md",
     "Lore/Races/Solari.md",
     "Lore/Races/Naito.md",
-    "Systems/Weapons.md",
-    "Systems/Combat.md",
-    "Systems/Untitled.md",
-    "Mechanics/Stat system.md",
-    "Stat system.md",
-    "Untitled.md",
-    "Lore/Races/Human.md",
-    "Lore/Vessel.md",
-    "Lore/Monarchs/Viviana.md",
     "Mechanics/Status Effects",
     "Status Effects",
-    "Lore/Ages/Age 3 Fear/The Age Of Fear.md",
-    "Lore/Ages/Age 3 Fear/1 The Age Of Fear.md",
-    "Religions and Cults/1 Religions and Cults Overview.md",
     "Definitions",
     "Systems",
     "Lore/World",
-    "Ages overview.canvas",
     "discussion forum",
-    "Religions and Cults",
-    "Untitled 2",
     "Lore/Monarchs/Untitled.canvas",
     "Lore/Ages/Ages overview.canvas",
     "Lore/Ages.canvas",
     "Lore/Untitled.canvas",
-    "Untitled.canvas",
     "Lore/Untitled 1.canvas"
   ]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"863ae9aeaeadca32","x":-140,"y":-280,"width":250,"height":60,"type":"text","text":"Age Of Silence"},
+		{"id":"3952082dac9916f2","type":"file","file":"Lore/Ignis.md","x":-215,"y":-100,"width":400,"height":400},
+		{"id":"5638895b79942829","x":240,"y":-80,"width":250,"height":60,"color":"1","type":"text","text":"Caused By This Guy"}
+	],
+	"edges":[
+		{"id":"f34e2a42e6f8f41c","fromNode":"863ae9aeaeadca32","fromSide":"bottom","toNode":"3952082dac9916f2","toSide":"top"},
+		{"id":"246501abd1000d7f","fromNode":"5638895b79942829","fromSide":"bottom","toNode":"3952082dac9916f2","toSide":"right","color":"1"}
+	]
+}
