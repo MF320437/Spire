@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "27c19d9e805de1d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Races/Kensai.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6dd7908f58d23df0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Races/Race Template.md",
+                "file": "Talents/Blood Hound/Sanguine Rush.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "t",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Races/Race Template.md",
+                "file": "Talents/Blood Hound/Sanguine Rush.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Races/Race Template.md",
+                "file": "Talents/Blood Hound/Sanguine Rush.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Races/Race Template.md"
+                "file": "Talents/Blood Hound/Sanguine Rush.md"
               }
             }
           }
@@ -173,49 +161,54 @@
   },
   "active": "6dd7908f58d23df0",
   "lastOpenFiles": [
-    "Lore/Races/Ashen.md",
-    "Lore/Races/Race Template.md",
-    "Lore/Races/Genus.md",
-    "Lore/Races/Kensai.md",
-    "discussion forum/Genus notes.md",
-    "Lore/Races/Naito.md",
-    "discussion forum/Ashen Notes.md",
-    "discussion forum/1 lore notes for races.md",
-    "Lore/Races/Human.md",
-    "Lore/Races/Solari.md",
-    "Scrapped.md",
-    "Talents/Untitled",
-    "Talents",
-    "Talents.md",
-    "Moves/Slash.md",
+    "Talents/Blood Hound/Blood Leeche.md",
+    "Talents/Blood Hound/Critical Bleed.md",
+    "Talents/Blood Hound/Hemmorage.md",
+    "Moves/Smash.md",
+    "Talents/Blood Hound/Sanguine Rush.md",
+    "Talents/Blood Hound/Hemorrhage.md",
+    "Moves/Whirwind.md",
+    "Moves/Untitled.md",
+    "Mechanics/Multi target.md",
     "Moves/Cleave.md",
+    "Talents/Weapons/Basic Weapons/Longsword/Longsword.md",
+    "Talents/Weapons/blunt heavy/Big Mace.md",
+    "Talents/Weapons/Basic Weapons/Daggers/Iron Daggers.md",
+    "Talents/Weapons/Basic Weapons/Longsword",
+    "Talents/Weapons/Basic Weapons/Daggers",
+    "Talents/Weapons/Basic Weapons",
+    "Talents/Weapons/blunt heavy",
+    "Talents/Weapons",
+    "Moves/Slash.md",
     "Moves/Precision Strike.md",
     "Moves/Swordplay.md",
-    "Weapons/Basic Weapons/Longsword/Longsword.md",
-    "Moves",
-    "Weapons/Basic Weapons/Longsword",
-    "Weapons/Basic Weapons",
-    "Weapons",
-    "2024-08-29.md",
-    "Ages overview.canvas",
-    "Religions and Cults Overview.md",
-    "Untitled.canvas",
-    "Untitled.md",
-    "Misc Notes/lore justification dump.md",
-    "Mechanics/Move.md",
-    "Systems/Weapons.md",
+    "OVERALL LORE/age of disasters concept.md",
+    "Pasted image 20240909190537.png",
+    "Weapons/blunt heavy/Pasted image 20240909190220.png",
+    "OVERALL LORE/Religions and Cults Overview.md",
+    "MISC/Scrapped.md",
+    "MISC/Untitled.canvas",
+    "MISC/Untitled.md",
+    "MISC/Untitled 1.canvas",
+    "MISC",
+    "Untitled",
+    "OVERALL LORE/Religions and Cults/1 Religions and Cults Overview.md",
+    "OVERALL LORE/Religions and Cults/New World Order.md",
+    "OVERALL LORE/Religions and Cults",
+    "OVERALL LORE/Primal Monarchs",
+    "OVERALL LORE/Lore/Ages/Age 2 Silence/The Age Of Silence.md",
+    "OVERALL LORE/Lore/Races/Genus.md",
+    "OVERALL LORE/Lore/Monarchs/Ignis.md",
+    "OVERALL LORE/Lore/Ages/Age 3 Fear/Conflicts of The Spire.md",
+    "OVERALL LORE/Lore/Ages.canvas",
+    "OVERALL LORE/Authorities/Ignis",
+    "OVERALL LORE/Lore/Untitled.canvas",
+    "Pasted image 20240909190220.png",
+    "Untitled 1.canvas",
     "Development/Roadmap.canvas",
-    "discussion forum/discussion forum.md",
-    "Backgrounds",
-    "Lore/Ages/Age 3 Fear/Conflicts of The Monarchs.md",
-    "Lore/Ages/Age 3 Fear/Conflicts of The Spire.md",
-    "Primal Monarchs",
-    "Development",
-    "Scrapped",
+    "Ages overview.canvas",
+    "Untitled.canvas",
     "Lore/Monarchs/Untitled.canvas",
-    "Lore/Ages/Ages overview.canvas",
-    "Lore/Ages.canvas",
-    "Lore/Untitled.canvas",
-    "Lore/Untitled 1.canvas"
+    "Lore/Ages/Ages overview.canvas"
   ]
 }

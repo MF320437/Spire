@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"94fc7c1bf20acdf4","type":"file","file":"Lore/Monarchs/Mortis.md","x":-220,"y":-180,"width":400,"height":420},
+		{"id":"94fc7c1bf20acdf4","type":"file","file":"OVERALL LORE/Lore/Monarchs/Mortis.md","x":-220,"y":-180,"width":400,"height":420},
 		{"id":"2d1f69a4651eed09","type":"text","text":"Real Angry","x":-145,"y":-235,"width":250,"height":50,"color":"1"},
-		{"id":"25311fa13e3425a0","type":"file","file":"Lore/Ages/Age 2 Silence/The Age Of Silence.md","x":-1460,"y":-253,"width":440,"height":135},
+		{"id":"25311fa13e3425a0","type":"file","file":"OVERALL LORE/Lore/Ages/Age 2 Silence/The Age Of Silence.md","x":-1460,"y":-253,"width":440,"height":135},
 		{"id":"5638895b79942829","type":"text","text":"Caused By These Few","x":-937,"y":-210,"width":250,"height":60,"color":"1"},
-		{"id":"3952082dac9916f2","type":"file","file":"Lore/Monarchs/Ignis.md","x":-894,"y":-713,"width":415,"height":460},
-		{"id":"3974bea242224ea9","type":"file","file":"Lore/Monarchs/Viviana.md","x":-879,"y":-80,"width":400,"height":400}
+		{"id":"3952082dac9916f2","type":"file","file":"OVERALL LORE/Lore/Monarchs/Ignis.md","x":-894,"y":-713,"width":415,"height":460},
+		{"id":"3974bea242224ea9","type":"file","file":"OVERALL LORE/Lore/Monarchs/Viviana.md","x":-879,"y":-80,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"246501abd1000d7f","fromNode":"5638895b79942829","fromSide":"bottom","toNode":"3952082dac9916f2","toSide":"left","color":"1"},

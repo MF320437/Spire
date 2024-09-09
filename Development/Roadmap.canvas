@@ -3,10 +3,10 @@
 		{"id":"d34121a8ddbce4f0","type":"text","text":"","x":43,"y":397,"width":250,"height":60},
 		{"id":"5de7c2eed9f73f5f","type":"text","text":"**Character Creation** (Week 1 Objective)\n* 6 Basic Backgrounds*\n* 4 Selectable Races\n* 3 Selectable Weapons (2 Abilities per)\n* 12 Stat Based Active Talents\n* 12 Stat Based Passive Talents\n\n**Player Combat System** (Week 2 Objective)\n* Full Battle Sequence\n* Experience|Levels gain after combat\n\n**Player Movement System** (DONE)\n* Procedural Animation System\n* Vaulting|Sliding| & other complex actions\n","x":-441,"y":-33,"width":521,"height":493},
 		{"id":"b7b51597c671defc","type":"text","text":"Minimal Viable Product","x":-441,"y":-93,"width":250,"height":60,"color":"1"},
-		{"id":"4c0441e4d3cb8b67","x":-900,"y":540,"width":250,"height":60,"type":"text","text":"Combat System "},
-		{"id":"f633d154888fb913","type":"text","text":"Setup Character Scene","x":-1150,"y":620,"width":250,"height":50},
-		{"id":"e320c2f7f67dc21d","type":"text","text":"Inform Player Of Combat \n(Disable Other Scripts (Attribute?))","x":-1150,"y":670,"width":250,"height":90},
-		{"id":"8339bbe1e1c47065","type":"text","text":"Inform Player Of Combat \n(Disable Other Scripts (Attribute?))","x":-1150,"y":760,"width":250,"height":90}
+		{"id":"4c0441e4d3cb8b67","type":"text","text":"Combat System ","x":-900,"y":540,"width":250,"height":60,"color":"4"},
+		{"id":"f633d154888fb913","type":"text","text":"Setup Character Scene","x":-900,"y":600,"width":250,"height":50,"color":"4"},
+		{"id":"e320c2f7f67dc21d","type":"text","text":"Inform Player Of Combat \n(Disable Other Scripts (Attribute?))","x":-900,"y":650,"width":250,"height":90,"color":"4"},
+		{"id":"8339bbe1e1c47065","type":"text","text":"Execute Player Move & Handle Turn Resolution","x":-900,"y":740,"width":250,"height":90,"color":"2"}
 	],
 	"edges":[
 		{"id":"b76f6f616e4c1686","fromNode":"4c0441e4d3cb8b67","fromSide":"right","toNode":"5de7c2eed9f73f5f","toSide":"left"}
