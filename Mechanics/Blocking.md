@@ -1,0 +1,2 @@
+so we could make blocking based on weight for instance you can black 4 weight worth of an attacking 10 with a shield so if my weapon is heavier you can break someone block faster and we could give some weapons or talents chip damage and we could also make it so your block does not regenerate till its broken so say i block 4 weight in round 1 then i still only have 6 blockable weight left till im block broken (idk what the punishment for being block broken will be yet)
+we could also just base it off damage and not weight 

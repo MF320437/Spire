@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moves/Slash.md",
+                "file": "Moves/Medium/Slash.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Blood Hound/Sanguine Rush.md",
+                "file": "OVERALL LORE/Lore/Races/Ashen.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talents/Blood Hound/Sanguine Rush.md",
+                "file": "OVERALL LORE/Lore/Races/Ashen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talents/Blood Hound/Sanguine Rush.md",
+                "file": "OVERALL LORE/Lore/Races/Ashen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talents/Blood Hound/Sanguine Rush.md"
+                "file": "OVERALL LORE/Lore/Races/Ashen.md"
               }
             }
           }
@@ -161,49 +161,55 @@
   },
   "active": "6dd7908f58d23df0",
   "lastOpenFiles": [
-    "Talents/Blood Hound/Blood Leeche.md",
-    "Talents/Blood Hound/Critical Bleed.md",
-    "Talents/Blood Hound/Hemmorage.md",
-    "Moves/Smash.md",
-    "Talents/Blood Hound/Sanguine Rush.md",
-    "Talents/Blood Hound/Hemorrhage.md",
+    "OVERALL LORE/Lore/Races/Genus.md",
+    "OVERALL LORE/Lore/Races/Race Template.md",
+    "OVERALL LORE/Lore/Races/Valydr.md",
+    "Archived Lore/Solari.md",
+    "Archived Lore/Naito.md",
+    "Archived Lore/Kensai.md",
+    "Archived Lore/Human.md",
+    "Archived Lore",
+    "OVERALL LORE/Lore/Races/Ashen.md",
+    "Pasted image 20241004181701.png",
+    "Pasted image 20241004181656.png",
+    "Pasted image 20241004181648.png",
+    "Pasted image 20241004181641.png",
+    "Pasted image 20241004181637.png",
+    "Pasted image 20241004181633.png",
+    "Pasted image 20241004181628.png",
+    "Pasted image 20241004181624.png",
+    "Pasted image 20241004181619.png",
+    "Pasted image 20241004181559.png",
     "Moves/Whirwind.md",
-    "Moves/Untitled.md",
-    "Mechanics/Multi target.md",
-    "Moves/Cleave.md",
-    "Talents/Weapons/Basic Weapons/Longsword/Longsword.md",
-    "Talents/Weapons/blunt heavy/Big Mace.md",
-    "Talents/Weapons/Basic Weapons/Daggers/Iron Daggers.md",
+    "Moves/Swordplay.md",
+    "Moves/Smash.md",
+    "Moves/Lunge.md",
+    "Moves/Earth Splitter.md",
+    "Moves/Medium/Slash.md",
+    "Moves/Medium/Cleave.md",
+    "Talents/Blood Hound/Blood Leeche.md",
+    "Moves/Medium",
+    "Talents/Blood Hound/Sanguine Rush.md",
+    "Talents/Blood Hound/Hemmorage.md",
+    "Talents/Blood Hound/Critical Bleed.md",
+    "Systems/Combat.md",
+    "Systems/Damage Calculations.md",
+    "Untitled 1",
+    "OVERALL LORE/Lore/Monarchs/Ignis.md",
+    "OVERALL LORE/Lore/Monarchs.md",
+    "OVERALL LORE/Lore/Monarchs/Mortis.md",
+    "OVERALL LORE/Lore/World/Spire.md",
+    "Weapons/Basic Weapons/Longsword",
+    "Weapons/Basic Weapons/Daggers",
+    "Weapons/Basic Weapons",
+    "Weapons/blunt heavy",
+    "Weapons",
     "Talents/Weapons/Basic Weapons/Longsword",
     "Talents/Weapons/Basic Weapons/Daggers",
-    "Talents/Weapons/Basic Weapons",
-    "Talents/Weapons/blunt heavy",
-    "Talents/Weapons",
-    "Moves/Slash.md",
-    "Moves/Precision Strike.md",
-    "Moves/Swordplay.md",
-    "OVERALL LORE/age of disasters concept.md",
-    "Pasted image 20240909190537.png",
-    "Weapons/blunt heavy/Pasted image 20240909190220.png",
-    "OVERALL LORE/Religions and Cults Overview.md",
-    "MISC/Scrapped.md",
     "MISC/Untitled.canvas",
-    "MISC/Untitled.md",
     "MISC/Untitled 1.canvas",
-    "MISC",
-    "Untitled",
-    "OVERALL LORE/Religions and Cults/1 Religions and Cults Overview.md",
-    "OVERALL LORE/Religions and Cults/New World Order.md",
-    "OVERALL LORE/Religions and Cults",
-    "OVERALL LORE/Primal Monarchs",
-    "OVERALL LORE/Lore/Ages/Age 2 Silence/The Age Of Silence.md",
-    "OVERALL LORE/Lore/Races/Genus.md",
-    "OVERALL LORE/Lore/Monarchs/Ignis.md",
-    "OVERALL LORE/Lore/Ages/Age 3 Fear/Conflicts of The Spire.md",
     "OVERALL LORE/Lore/Ages.canvas",
-    "OVERALL LORE/Authorities/Ignis",
     "OVERALL LORE/Lore/Untitled.canvas",
-    "Pasted image 20240909190220.png",
     "Untitled 1.canvas",
     "Development/Roadmap.canvas",
     "Ages overview.canvas",

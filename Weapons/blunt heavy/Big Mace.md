@@ -1,4 +1,4 @@
-
+    
 | Weapon Stats | Amount |
 | ------------ | ------ |
 | Damage       | 120    |
@@ -6,9 +6,9 @@
 
 | Stat         | Requirements |     | Scaling |     |
 | ------------ | ------------ | --- | ------- | --- |
-| Strength     | N/A          |     | C       |     |
+| Strength     | N/A          |     | D       |     |
 | Intelligence | N/A          |     | N/A     |     |
-| Endurance    | N/A          |     | N/A     |     |
+| Endurance    | N/A          |     | D       |     |
 | Dexterity    | N/A          |     | N/A     |     |
 | Wisdom       | N/A          |     | N/A     |     |
 |              |              |     |         |     |
@@ -18,11 +18,11 @@
 | Daze          | 2%     |
 
 
-| Moves       | Description |
-| ----------- | ----------- |
-| Slash       | [[Slash]]   |
-| Cleave      |             |
-| Lunge       |             |
-| Parry       |             |
-| Guard Break |             |
+| Moves          | Description        |
+| -------------- | ------------------ |
+| Smash          | [[Smash]]          |
+| Cleave         | [[Cleave]]         |
+| Rough edges    | [[Rough edges]]    |
+|                |                    |
+| Earth Splitter | [[Earth Splitter]] |
 ![[Pasted image 20240909190537.png]]
