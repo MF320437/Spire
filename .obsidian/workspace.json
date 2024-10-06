@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "OVERALL LORE/Lore/Races/Valydr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a2abccded5ca49e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "OVERALL LORE/Lore/Races/Ashen.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,17 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dd7908f58d23df0",
+  "active": "8a2abccded5ca49e",
   "lastOpenFiles": [
+    "OVERALL LORE/Lore/Races/Hrafnir.md",
+    "OVERALL LORE/Lore/Races/Valydr.md",
+    "OVERALL LORE/Lore/Races/Ashen.md",
     "OVERALL LORE/Lore/Races/Genus.md",
     "OVERALL LORE/Lore/Races/Race Template.md",
-    "OVERALL LORE/Lore/Races/Valydr.md",
     "Archived Lore/Solari.md",
     "Archived Lore/Naito.md",
     "Archived Lore/Kensai.md",
     "Archived Lore/Human.md",
     "Archived Lore",
-    "OVERALL LORE/Lore/Races/Ashen.md",
     "Pasted image 20241004181701.png",
     "Pasted image 20241004181656.png",
     "Pasted image 20241004181648.png",
